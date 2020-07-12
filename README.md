@@ -18,7 +18,7 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 * [~ as Home does not work in MacOS .zshrc](https://jonathanbayless.com/2020/02/08/zshrc-macos.html) - 2020-02-08
 <!-- blog ends -->
 More on [jonathanbayless.com](https://jonathanbayless.com/)
-</td><td valign="top">
+</td>
 
 </tr></table>
 

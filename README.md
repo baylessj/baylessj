@@ -6,7 +6,7 @@ Currently working on [auToDo](https://autodo.app/) and associated projects.
 <!-- recent_releases starts -->
 * [autodo 0.3.2](https://github.com/autodo-app/autodo/releases/tag/0.3.2) - 2020-05-18
 <!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
+More [recent releases](https://github.com/baylessj/baylessj/blob/main/releases.md)
 </td><td valign="top">
 
 ### On my blog

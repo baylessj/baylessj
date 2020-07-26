@@ -1,5 +1,7 @@
 Currently working on [auToDo](https://autodo.app/) and associated projects. 
 
+![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=baylessj&count_private=true&show_icons=true)
+
 <table><tr><td valign="top">
 
 ### Recent releases

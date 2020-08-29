@@ -4,6 +4,7 @@ Currently working on [auToDo](https://autodo.app/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [jekyll-hn-comments 0.0.2](https://github.com/baylessj/jekyll-hn-comments/releases/tag/0.0.2) - 2020-08-29
 * [autodo 0.3.2](https://github.com/autodo-app/autodo/releases/tag/0.3.2) - 2020-05-18
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/baylessj/baylessj/blob/main/releases.md)
@@ -11,7 +12,11 @@ More [recent releases](https://github.com/baylessj/baylessj/blob/main/releases.m
 
 ### On my blog
 <!-- blog starts -->
-
+* [Book Review -- The Design of Everyday Things](https://jonathanbayless.com/2020/08/19/design-everyday-things.html) - 2020-08-19
+* [Zettelkasten Tooling Updates](https://jonathanbayless.com/2020/08/07/zettelkasten-foam.html) - 2020-08-07
+* [Handwired Iris Keyboard Build](https://jonathanbayless.com/2020/06/09/iris-handwire.html) - 2020-06-09
+* [Fixing a soft-bricked Logitech Receiver with fwupdmgr](https://jonathanbayless.com/2020/05/03/bricked-mx-master-receiver.html) - 2020-05-03
+* [Vimwiki + Zettelkasten -- Note Taking Nirvana](https://jonathanbayless.com/2020/03/09/zettelkasten-vimwiki.html) - 2020-03-09
 <!-- blog ends -->
 More on [jonathanbayless.com](https://jonathanbayless.com/)
 </td>

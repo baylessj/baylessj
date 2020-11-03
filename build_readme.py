@@ -94,14 +94,14 @@ def fetch_releases(oauth_token):
     return releases
 
 
-def fetch_tils():
-    """Currently unused, not using these personally"""
+# def fetch_tils():
+#     """Currently unused, not using these personally"""
 
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
-    return httpx.get(
-        "https://til.simonwillison.net/til.json",
-        params={"sql": sql, "_shape": "array",},
-    ).json()
+#     sql = "select title, url, created_utc from til order by created_utc desc limit 5"
+#     return httpx.get(
+#         "https://til.simonwillison.net/til.json",
+#         params={"sql": sql, "_shape": "array",},
+#     ).json()
 
 
 def fetch_blog_entries():
@@ -159,8 +159,8 @@ if __name__ == "__main__":
     #        )
     #        for til in tils
     #    ]
-    #)
-    #rewritten = replace_chunk(rewritten, "tils", tils_md)
+    # )
+    # rewritten = replace_chunk(rewritten, "tils", tils_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(

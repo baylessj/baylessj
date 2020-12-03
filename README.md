@@ -4,7 +4,7 @@ Currently working on [auToDo](https://autodo.app/) and associated projects.
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [robotsquiggles 0.1.1](https://github.com/baylessj/robotsquiggles/releases/tag/0.1.1) - 2020-11-24
+* [robotsquiggles 1.0.0](https://github.com/baylessj/robotsquiggles/releases/tag/1.0.0) - 2020-12-02
 * [jekyll-hn-comments 0.0.2](https://github.com/baylessj/jekyll-hn-comments/releases/tag/0.0.2) - 2020-08-29
 * [autodo 0.3.2](https://github.com/autodo-app/autodo/releases/tag/0.3.2) - 2020-05-18
 <!-- recent_releases ends -->

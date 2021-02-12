@@ -13,11 +13,11 @@ More [recent releases](https://github.com/baylessj/baylessj/blob/main/releases.m
 
 ### On my blog
 <!-- blog starts -->
+* [Book Review -- Rework](https://jonathanbayless.com/2021/02/08/rework.html) - 2021-02-08
 * [C++ in the Background of React with WebAssembly and WebWorkers](https://jonathanbayless.com/2021/01/30/wasm-webworker.html) - 2021-01-30
 * [State of My Desk 2020](https://jonathanbayless.com/2020/12/06/state-of-my-desk.html) - 2020-12-06
 * [Setting up a C++ library with CMake](https://jonathanbayless.com/2020/11/05/squiggles-cmake.html) - 2020-11-05
 * [GBoards Gergoplex Keyboard Review](https://jonathanbayless.com/2020/10/07/gergoplex-review.html) - 2020-10-07
-* [Book Review -- The Design of Everyday Things](https://jonathanbayless.com/2020/08/19/design-everyday-things.html) - 2020-08-19
 <!-- blog ends -->
 More on [jonathanbayless.com](https://jonathanbayless.com/)
 </td>

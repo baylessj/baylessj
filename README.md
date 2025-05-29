@@ -1,1 +1,1 @@
-linktr.ee/latergator
+https://linktr.ee/latergator
